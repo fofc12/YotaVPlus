@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FloatingWindow</string>
+    <string name="btn">启动悬浮窗口</string>
+    <string name="floating">→</string>
+    <string name="stop">移除悬浮窗口</string>
+    <string name="app_info">\nYota悬浮翻页全刷窗0.1测试版本by Free2ing\n
+        博客:http://blog.sina.com.cn/u/2659197653\n
+        Yotaphone2交流群:120941331\n
+        期末考试期间(16.6)粗制滥造
+    </string>
+    <string name="app_help">作用：显示一个代替音量键的悬浮窗来翻页，
+        用此虚拟键翻页五次后，会自动全刷。\n
+        预计下一版本：能设置一些参数。\n
+        能设置全刷方式\n
+        （目前只能通过golf的广播全刷，需要112且修改系统apk,\n
+        推荐：静读天下，优秀的阅读器且能音量翻页）</string>
+
+</resources>
